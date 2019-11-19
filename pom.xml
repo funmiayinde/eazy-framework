@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.eazy</groupId>
+        <artifactId>eazy-dependencies</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>eazy-framework</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Eazy Framework</name>
+    <description>
+        A collection of tools that encapsulates a range of open source project to make Java Web Development
+        easy, better and more convenient
+    </description>
+
+    <modules>
+        <module>eazy-3rd</module>
+        <module>eazy-all</module>
+        <module>eazy-common</module>
+        <module>eazy-core</module>
+        <module>eazy-cache</module>
+        <module>eazy-filesystem</module>
+        <module>eazy-rest</module>
+        <module>eazy-mongodb</module>
+        <module>eazy-validate</module>
+        <module>eazy-mybatis</module>
+        <module>eazy-search</module>
+        <module>eazy-redis</module>
+        <module>eazy-test</module>
+        <module>eazy-security</module>
+        <module>eazy-more-common</module>
+        <module>eazy-rabbitmq</module>
+        <module>eazy-kafka</module>
+        <module>eazy-log</module>
+        <module>eazy-event</module>
+        <module>eazy-scheduler</module>
+    </modules>
+
+
+</project>
