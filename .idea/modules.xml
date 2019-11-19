@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/eazy-3rd/eazy-3rd.iml" filepath="$PROJECT_DIR$/eazy-3rd/eazy-3rd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-all/eazy-all.iml" filepath="$PROJECT_DIR$/eazy-all/eazy-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-cache/eazy-cache.iml" filepath="$PROJECT_DIR$/eazy-cache/eazy-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-common/eazy-common.iml" filepath="$PROJECT_DIR$/eazy-common/eazy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-core/eazy-core.iml" filepath="$PROJECT_DIR$/eazy-core/eazy-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-event/eazy-event.iml" filepath="$PROJECT_DIR$/eazy-event/eazy-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-filesystem/eazy-filesystem.iml" filepath="$PROJECT_DIR$/eazy-filesystem/eazy-filesystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-framework.iml" filepath="$PROJECT_DIR$/eazy-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-kafka/eazy-kafka.iml" filepath="$PROJECT_DIR$/eazy-kafka/eazy-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-log/eazy-log.iml" filepath="$PROJECT_DIR$/eazy-log/eazy-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-mongodb/eazy-mongodb.iml" filepath="$PROJECT_DIR$/eazy-mongodb/eazy-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-more-common/eazy-more-common.iml" filepath="$PROJECT_DIR$/eazy-more-common/eazy-more-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-mybatis/eazy-mybatis.iml" filepath="$PROJECT_DIR$/eazy-mybatis/eazy-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-rabbitmq/eazy-rabbitmq.iml" filepath="$PROJECT_DIR$/eazy-rabbitmq/eazy-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-redis/eazy-redis.iml" filepath="$PROJECT_DIR$/eazy-redis/eazy-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-rest/eazy-rest.iml" filepath="$PROJECT_DIR$/eazy-rest/eazy-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/eazy-scheduler/eazy-scheduler.iml" filepath="$PROJECT_DIR$/eazy-scheduler/eazy-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-search/eazy-search.iml" filepath="$PROJECT_DIR$/eazy-search/eazy-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-security/eazy-security.iml" filepath="$PROJECT_DIR$/eazy-security/eazy-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eazy-test/eazy-test.iml" filepath="$PROJECT_DIR$/eazy-test/eazy-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/eazy-validate/eazy-validate.iml" filepath="$PROJECT_DIR$/eazy-validate/eazy-validate.iml" />
     </modules>
   </component>
