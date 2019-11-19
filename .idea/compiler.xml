@@ -9,6 +9,7 @@
         <module name="eazy-test" />
         <module name="eazy-search" />
         <module name="eazy-security" />
+        <module name="eazy-log" />
         <module name="eazy-core" />
         <module name="eazy-cache" />
         <module name="eazy-rest" />
@@ -17,17 +18,28 @@
         <module name="eazy-all" />
         <module name="eazy-more-common" />
         <module name="eazy-event" />
+        <module name="eazy-scheduler" />
         <module name="eazy-filesystem" />
-        <module name="eazy-mongodb" />
+        <module name="eazy-redis" />
         <module name="eazy-kafka" />
-        <module name="eazy-mybatis" />
+        <module name="eazy-mongodb" />
         <module name="eazy-validate" />
         <module name="eazy-common" />
-        <module name="eazy-redis" />
+        <module name="eazy-mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="eazy-3rd" target="1.8" />
+      <module name="eazy-all" target="1.8" />
+      <module name="eazy-core" target="1.8" />
       <module name="eazy-dependencies" target="1.5" />
+      <module name="eazy-log" target="1.8" />
+      <module name="eazy-more-common" target="1.8" />
+      <module name="eazy-redis" target="1.8" />
+      <module name="eazy-scheduler" target="1.8" />
+      <module name="eazy-search" target="1.8" />
+      <module name="eazy-security" target="1.8" />
+      <module name="eazy-test" target="1.8" />
       <module name="eazy-validate" target="1.8" />
       <module name="eazyvalidate" target="1.8" />
     </bytecodeTargetLevel>
@@ -43,12 +55,14 @@
       <module name="eazy-filesystem" options="-Xlint:unchecked" />
       <module name="eazy-framework" options="" />
       <module name="eazy-kafka" options="-Xlint:unchecked" />
+      <module name="eazy-log" options="-Xlint:unchecked" />
       <module name="eazy-mongodb" options="-Xlint:unchecked" />
       <module name="eazy-more-common" options="-Xlint:unchecked" />
       <module name="eazy-mybatis" options="-Xlint:unchecked" />
       <module name="eazy-rabbitmq" options="-Xlint:unchecked" />
       <module name="eazy-redis" options="-Xlint:unchecked" />
       <module name="eazy-rest" options="-Xlint:unchecked" />
+      <module name="eazy-scheduler" options="-Xlint:unchecked" />
       <module name="eazy-search" options="-Xlint:unchecked" />
       <module name="eazy-security" options="-Xlint:unchecked" />
       <module name="eazy-test" options="-Xlint:unchecked" />

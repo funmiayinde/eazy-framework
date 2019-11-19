@@ -17,10 +17,10 @@
     <file url="file://$PROJECT_DIR$/eazy-rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eazy-redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eazy-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eazy-scheduler" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eazy-search" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eazy-security" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eazy-test" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eazy-validate" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eazy-validate" charset="UTF-8" />
   </component>
 </project>
